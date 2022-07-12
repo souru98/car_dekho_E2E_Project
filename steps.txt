@@ -1,0 +1,4 @@
+1. Created new environment (carprediction) with python 3.7
+2. went to working directory (launched juypter notebook)
+3. Creating model
+
